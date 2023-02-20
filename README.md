@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
