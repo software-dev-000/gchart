@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
