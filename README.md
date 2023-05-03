@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add visuals in guides/distance-calculation.md (#7876)
