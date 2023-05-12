@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Clarify triton server boolean value (#8532)
