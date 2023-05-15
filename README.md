@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Fix RTDETR generate anchor grid out of boundary (#7247)
