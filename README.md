@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix IS_PYTHON_3_12 bug (#9258)
