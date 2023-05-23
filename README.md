@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add PaddlePaddle Docs Integrations Page (#8858)
