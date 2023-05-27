@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+ultralytics 8.0.229 add model.embed() method (#7098)
