@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
