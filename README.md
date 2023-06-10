@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Allow Annotator PIL.Image inputs (#8397)
