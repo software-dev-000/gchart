@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Move Google Drive to slow tests (#8163)
