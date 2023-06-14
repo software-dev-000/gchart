@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
