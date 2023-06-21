@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
