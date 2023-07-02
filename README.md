@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Update Discord and Contributing Guide URLs (#9270)
