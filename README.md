@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
