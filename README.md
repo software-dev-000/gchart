@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
