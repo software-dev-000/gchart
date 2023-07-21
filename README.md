@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
