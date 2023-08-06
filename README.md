@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
