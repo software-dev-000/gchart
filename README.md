@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Updated SQL Query Plot Code (#8120)
