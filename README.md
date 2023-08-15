@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+ultralytics 8.0.228 add training time argument (#7054)
