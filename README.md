@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Move Explorer tests to scheduled CI (#8305)
