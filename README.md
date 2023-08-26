@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update CI.md with CI links (#8786)
