@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Compare plt.get_backend() in lowercase (#8409)
