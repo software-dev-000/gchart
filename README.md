@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+YOLOv8 INT8 TFLite Inference Example (#7317)
