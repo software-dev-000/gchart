@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
