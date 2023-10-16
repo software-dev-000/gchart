@@ -1,1 +1,1 @@
-add yolov10
+Update CI.md with CI links (#8786)
