@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
