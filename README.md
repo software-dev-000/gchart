@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
