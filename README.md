@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add HUB-SDK docs (#7775)
