@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fix OpenVINO missing batch-size bug (#9264)
