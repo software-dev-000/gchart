@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
