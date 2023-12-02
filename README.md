@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add PR Summary step to Ultralytics Actions (#7675)
