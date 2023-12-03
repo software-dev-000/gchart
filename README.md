@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add docstrings to new HUB functions (#7576)
