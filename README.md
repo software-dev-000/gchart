@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
