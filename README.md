@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Resize angle, count, and stage on keypoint number change (#7598)
