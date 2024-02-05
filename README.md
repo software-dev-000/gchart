@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Update Colab notebook for YOLOv8.1 (#8660)
