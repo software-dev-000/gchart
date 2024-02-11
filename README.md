@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Fix Yolo 8.0.206 scale bug (#7821)
