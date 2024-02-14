@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
