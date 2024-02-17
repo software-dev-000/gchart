@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
