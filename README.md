@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
