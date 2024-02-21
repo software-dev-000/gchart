@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Hold failed upload metrics and upload with next upload metrics (#8513)
