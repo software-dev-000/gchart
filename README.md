@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Merge pull request #22 from SkalskiP/patch-1
