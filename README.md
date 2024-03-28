@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
