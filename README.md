@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Elaborate Train and Predict mode docs arguments (#8137)
