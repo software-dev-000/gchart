@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Fix ONNX GPU inference bug (#6840)
