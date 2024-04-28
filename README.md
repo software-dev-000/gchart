@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Fix docs H1 tags (#7182)
