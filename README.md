@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+docs: update view-results-in-terminal.md (#66)
