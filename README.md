@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update H1 in Explorer API docs (#7813)
