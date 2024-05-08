@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+* fix for KeyError: 'epoch'
