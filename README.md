@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
