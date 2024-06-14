@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
