@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Use pathlib in DOTA ops (#7552)
