@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
