@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
