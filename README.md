@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+fix for predicting with batch_size > 1 (#47)
