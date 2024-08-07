@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+* fix for predicting with batch_size > 1
