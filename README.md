@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Elaborate Train and Predict mode docs arguments (#8137)
