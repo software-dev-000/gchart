@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+New test for labels and crops (#8861)
