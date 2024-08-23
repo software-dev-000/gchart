@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
