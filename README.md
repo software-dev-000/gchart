@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
