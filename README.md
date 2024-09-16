@@ -1,1 +1,1 @@
-fix print val map
+Optimize function calls to method calls (#8507)
