@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
